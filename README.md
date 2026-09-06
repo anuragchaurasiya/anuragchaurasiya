@@ -8,7 +8,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anurag%20Chaurasiya-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
 [![Java](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![DSA](https://img.shields.io/badge/DSA-Practice-0A66C2?style=for-the-badge)](https://leetcode.com/)
+[![Web Development](https://img.shields.io/badge/Web%20Development-HTML%20%7C%20CSS%20%7C%20JS-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.mozilla.org/)
+[![DSA](https://img.shields.io/badge/DSA-Practice-2EA44F?style=for-the-badge)](https://leetcode.com/)
 
 </div>
 
@@ -30,6 +31,14 @@ I enjoy turning ideas into working applications and improving my problem-solving
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Tech Stack" />
+
+</div>
+
+### Core Skills
+
 | Category | Technologies |
 |---|---|
 | Languages | Java, C++, JavaScript |
@@ -39,6 +48,31 @@ I enjoy turning ideas into working applications and improving my problem-solving
 | Database | MySQL — learning |
 | Backend | Spring Boot & REST API — learning |
 | Tools | Git, GitHub, Eclipse, VS Code |
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuragchaurasiya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=anuragchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchaurasiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
 
 ---
 
@@ -67,6 +101,20 @@ Java application focused on customer/account workflows, transactions and file-ba
 A growing collection of solutions covering arrays, strings, stacks, linked lists, trees, binary search and common algorithmic patterns.
 
 **Language:** Java / C++
+
+---
+
+## 🏆 What I Practice
+
+```text
+Java & OOP              ████████████████████  Strong Focus
+Data Structures         ██████████████████░░  Growing
+Algorithms              █████████████████░░░  Growing
+Web Development        ████████████████░░░░  Building
+Git & GitHub            ███████████████░░░░░  Building
+Backend Development     ████████░░░░░░░░░░░░  Learning
+Databases               ███████░░░░░░░░░░░░░  Learning
+```
 
 ---
 
@@ -112,7 +160,11 @@ I believe consistent practice, real projects and learning from mistakes are the 
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [@anuragchaurasiya](https://github.com/anuragchaurasiya)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
+
+</div>
 
 ---
 
