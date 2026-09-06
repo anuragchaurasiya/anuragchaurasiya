@@ -15,163 +15,76 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🤝 Connect With Me
 
-I am **Anurag Chaurasiya**, a developer focused on **Java, Object-Oriented Programming, Data Structures & Algorithms, and Web Development**.
+<p align="center">
+  <a href="https://github.com/anuragchaurasiya"><img src="https://img.shields.io/badge/GitHub-anuragchaurasiya-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:anuragchaurasiyachaurasiya1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-I enjoy turning ideas into working applications and improving my problem-solving skills by building projects and practicing coding problems.
-
-- 💻 Focus: **Java + OOP + DSA**
-- 🌐 Web: **HTML, CSS, JavaScript**
-- 🧠 Problem Solving: **Arrays, Strings, Stack, Linked List, Trees, Searching & Sorting**
-- 🔧 Tools: **Git, GitHub, Eclipse, VS Code**
-- 🚀 Next: **Spring Boot, REST APIs, MySQL**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Tech Stack" />
-
-</div>
-
-### Core Skills
-
-| Category | Technologies |
-|---|---|
-| Languages | Java, C++, JavaScript |
-| Web | HTML5, CSS3, JavaScript |
-| DSA | Arrays, Strings, Stack, Queue, Linked List, Trees, Searching, Sorting |
-| Java | OOP, Collections, File Handling, Serialization |
-| Database | MySQL — learning |
-| Backend | Spring Boot & REST API — learning |
-| Tools | Git, GitHub, Eclipse, VS Code |
-
----
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuragchaurasiya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=anuragchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchaurasiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-
-</div>
+- 🐙 **GitHub:** [anuragchaurasiya](https://github.com/anuragchaurasiya)
+- 📧 **Email:** [anuragchaurasiyachaurasiya1@gmail.com](mailto:anuragchaurasiyachaurasiya1@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 CineBook — Movie Ticket Booking System
-
-A responsive movie ticket booking application with movie/show management, seat selection, snacks, customer validation, billing, GST, booking history, cancellation and admin dashboard.
-
-**Tech:** HTML • CSS • JavaScript • LocalStorage
-
-### 🛒 E-Commerce Cart System
-
-Java application demonstrating product management, stock handling, cart operations, discounts, GST and billing calculations.
-
-**Tech:** Java • OOP • ArrayList
-
-### 🏦 Bank Management System
-
-Java application focused on customer/account workflows, transactions and file-based data handling.
-
-**Tech:** Java • OOP • File Handling
-
-### 🧩 DSA & LeetCode Practice
-
-A growing collection of solutions covering arrays, strings, stacks, linked lists, trees, binary search and common algorithmic patterns.
-
-**Language:** Java / C++
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🎬 **CineBook** | Movie Ticket Booking Platform | HTML • CSS • JavaScript | [View Project](https://github.com/anuragchaurasiya/repo07) |
+| 🛒 **E-Commerce Cart System** | Product, cart and billing system | Java • OOP | [View Project](https://github.com/anuragchaurasiya/repo06) |
+| 🏦 **Bank Management System** | Banking operations and account management | Java • OOP | [View GitHub](https://github.com/anuragchaurasiya) |
+| 🧩 **DSA & LeetCode Practice** | Data structures and algorithm solutions | Java | [View GitHub](https://github.com/anuragchaurasiya) |
 
 ---
 
-## 🏆 What I Practice
+## 🛠️ Tech Stack
 
-```text
-Java & OOP              ████████████████████  Strong Focus
-Data Structures         ██████████████████░░  Growing
-Algorithms              █████████████████░░░  Growing
-Web Development        ████████████████░░░░  Building
-Git & GitHub            ███████████████░░░░░  Building
-Backend Development     ████████░░░░░░░░░░░░  Learning
-Databases               ███████░░░░░░░░░░░░░  Learning
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Tech Stack" />
+</p>
 
 ---
 
-## 📚 Current Learning Roadmap
+## 📊 GitHub Stats
 
-```text
-Java Fundamentals
-      ↓
-Object-Oriented Programming
-      ↓
-Data Structures & Algorithms
-      ↓
-Web Development
-      ↓
-Git & GitHub
-      ↓
-Spring Boot + REST APIs
-      ↓
-MySQL + Full-Stack Development
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragchaurasiya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anuragchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📈 Activity
 
-- [ ] Strengthen DSA and problem-solving
-- [ ] Build production-style Java applications
-- [ ] Learn Spring Boot deeply
-- [ ] Build REST APIs with MySQL
-- [ ] Improve clean code and software design
-- [ ] Build stronger full-stack projects
-- [ ] Prepare for software development internships/jobs
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchaurasiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
 
 ---
 
-## 💡 Developer Mindset
+## 🎯 Current Focus
 
-> **“Small steps every day lead to big results.”**
-
-I believe consistent practice, real projects and learning from mistakes are the best ways to become a better developer.
+- ☕ Strengthening **Core Java & OOP**
+- 🧩 Improving **DSA & problem-solving** with LeetCode
+- 🌐 Building practical **Web Development projects**
+- 🗄️ Learning **SQL & database concepts**
+- 🚀 Preparing projects and GitHub profile for **professional/HR evaluation**
 
 ---
 
-## 🤝 Let's Connect
+## 🌟 Thanks for visiting my profile!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Improving 🚀**
+**⭐ Feel free to explore my repositories and projects!**
 
 </div>
