@@ -50,25 +50,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=anuragchaurasiya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuragchaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anuragchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/anuragchaurasiya">
-    <img src="https://streak-stats.demolab.com?user=anuragchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <strong>View my GitHub contribution graph and activity →</strong>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuragchaurasiya?tab=repositories">📁 Repositories</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/anuragchaurasiya?tab=stars">⭐ Stars</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/anuragchaurasiya?tab=followers">👥 Followers</a>
 </p>
 
 ---
