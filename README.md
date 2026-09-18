@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragchaurasiya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=anuragchaurasiya&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuragchaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -66,7 +66,9 @@
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchaurasiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <a href="https://github.com/anuragchaurasiya">
+    <img src="https://streak-stats.demolab.com?user=anuragchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
