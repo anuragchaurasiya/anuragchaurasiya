@@ -1,72 +1,100 @@
 <div align="center">
 
-# Hi, I'm Anurag Chaurasiya
+# Anurag Chaurasiya
 
-### Java · C++ · Web Development · Data Structures & Algorithms
+### Java Developer • C++ Learner • DSA Enthusiast
 
-**Learning by building projects and solving problems.**
+I build practical projects to strengthen my problem-solving, programming fundamentals, and software development skills.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
+[![GitHub](https://img.shields.io/badge/GitHub-anuragchaurasiya-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anuragchaurasiya790/)
 
 </div>
 
+<p align="center">
+  <img src="profile-banner.svg" alt="Anurag Chaurasiya — Java, C++, DSA and Web Development" width="100%" />
+</p>
+
 ---
 
-<p align="center"><img src="profile-banner.svg" alt="Anurag Chaurasiya developer profile banner" width="100%" /></p>
+## About me
 
-## About
+- Focused on **Java, object-oriented programming, and data structures & algorithms**.
+- Practising **C++** and strengthening core programming concepts.
+- Building small applications to learn how code works in real projects.
+- Improving code quality through documentation, regression tests, and GitHub Actions.
 
-I am building my programming foundation through Java and C++, practising data structures and algorithms, and creating small web and console applications.
+## Featured work
 
-## Featured projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR">Huffman Text Compressor</a></h3>
+      <p>Lossless text/file compression using Huffman coding.</p>
+      <p><strong>Java · Greedy Algorithms · Binary Trees · Priority Queue · Bit Manipulation</strong></p>
+      <p><a href="https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR/actions">Build & test workflow</a> · <a href="https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR/blob/main/docs/ALGORITHM.md">Algorithm notes</a></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/anuragchaurasiya/repo07">CineBook</a></h3>
+      <p>A browser-based movie ticket booking demonstration.</p>
+      <p><strong>HTML · CSS · JavaScript · DOM · LocalStorage</strong></p>
+      <p><a href="https://anuragchaurasiya.github.io/repo07/">Live demo</a> · <a href="https://github.com/anuragchaurasiya/repo07">Source code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/anuragchaurasiya/repo06">Movie Theater Booking</a></h3>
+      <p>Console-based seat selection and booking application.</p>
+      <p><strong>Java · OOP · Collections · File Handling</strong></p>
+      <p><a href="https://github.com/anuragchaurasiya/repo06/actions">Build workflow</a></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/anuragchaurasiya/https-github.com-anuragchaurasiya-LeetcodeSalution">LeetCode Solutions</a></h3>
+      <p>A growing collection of algorithm and data-structure solutions.</p>
+      <p><strong>Java · Arrays · Linked Lists · Trees · Sorting</strong></p>
+      <p><a href="https://leetcode.com/u/Anuragchaurasiya790/">LeetCode profile</a></p>
+    </td>
+  </tr>
+</table>
 
-| Project | Description | Technology |
-|---|---|---|
-| [Huffman Text Compressor](https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR) | Lossless text and file compression using Huffman coding | Java |
-| [CineBook](https://github.com/anuragchaurasiya/repo07) | Browser-based movie ticket booking demonstration | HTML, CSS, JavaScript |
-| [Movie Theater Booking](https://github.com/anuragchaurasiya/repo06) | Console seat booking and billing application | Java, OOP |
-| [LeetCode Solutions](https://github.com/anuragchaurasiya/https-github.com-anuragchaurasiya-LeetcodeSalution) | Algorithm practice and solution notes | Java |
-| [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Classes, inheritance, polymorphism and console examples | Java |
-| [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Beginner programming exercises | C++ |
+## More projects
 
-## Concepts demonstrated across projects
-
-| Project | Main concepts |
+| Repository | What it demonstrates |
 |---|---|
-| [Huffman Text Compressor](https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR) | Greedy algorithms, binary trees, priority queues, hash maps and bit manipulation |
-| [CineBook](https://github.com/anuragchaurasiya/repo07) | DOM manipulation, JavaScript state, arrays/objects, validation and LocalStorage |
-| [Movie Theater Booking](https://github.com/anuragchaurasiya/repo06) | Encapsulation, object relationships, ArrayList and serialization |
-| [LeetCode Solutions](https://github.com/anuragchaurasiya/https-github.com-anuragchaurasiya-LeetcodeSalution) | Linked lists, two pointers, tree traversal, stacks and merge sort |
-| [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Inheritance, abstraction, method overriding and runtime polymorphism |
-| [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Arrays, loops, functions, conditions and type conversion |
-| [Interactive Web Starter](https://github.com/anuragchaurasiya/repo01) | HTML semantics, CSS responsive layout, DOM events and accessibility |
+| [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Inheritance, abstraction, polymorphism, and classes |
+| [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Conditions, loops, arrays, functions, and core syntax |
+| [Interactive Web Starter](https://github.com/anuragchaurasiya/repo01) | Responsive layout, DOM events, and JavaScript basics |
 
-## Technology
+## Tech stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Java, C++, HTML, CSS, JavaScript, MySQL, Git, GitHub, VS Code and Eclipse" />
 </p>
 
-## Current learning focus
+## What I'm learning
 
-- Core Java and object-oriented programming
+- Java fundamentals, OOP, and collections
 - Data structures and algorithms
 - C++ fundamentals and STL
-- HTML, CSS and JavaScript
+- HTML, CSS, and JavaScript
 - SQL and database fundamentals
 
-## Explore
+## Engineering habits
 
-- [All repositories](https://github.com/anuragchaurasiya?tab=repositories)
-- [LeetCode profile](https://leetcode.com/u/Anuragchaurasiya790/)
-- [LinkedIn profile](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
+- Keep project setup and usage instructions in the README.
+- Explain important algorithms and design decisions.
+- Use automated builds and regression tests where configured.
+- Track known limitations honestly and improve projects incrementally.
 
----
+## Find me
+
+- [GitHub repositories](https://github.com/anuragchaurasiya?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
+- [LeetCode](https://leetcode.com/u/Anuragchaurasiya790/)
 
 <div align="center">
 
-**Keep learning · Keep building · Keep improving**
+**Learn consistently. Build thoughtfully. Improve every commit.**
 
 </div>
