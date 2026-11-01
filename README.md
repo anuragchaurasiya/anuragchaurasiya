@@ -62,6 +62,7 @@ I build practical projects to strengthen my problem-solving, programming fundame
 
 | Repository | What it demonstrates |
 |---|---|
+| [CampusConnect](https://github.com/anuragchaurasiya/repo08) | Full-stack campus event manager — React, Spring Boot, REST API, MySQL (MVP) |
 | [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Inheritance, abstraction, polymorphism, and classes |
 | [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Conditions, loops, arrays, functions, and core syntax |
 | [Interactive Web Starter](https://github.com/anuragchaurasiya/repo01) | Responsive layout, DOM events, and JavaScript basics |
