@@ -1,90 +1,58 @@
 <div align="center">
 
-# 👋 Hi, I'm Anurag Chaurasiya
+# Hi, I'm Anurag Chaurasiya
 
-### ☕ Java Developer • 🌐 Web Developer • 🧩 DSA Enthusiast
+### Java · C++ · Web Development · Data Structures & Algorithms
 
-**Building practical projects. Solving problems. Learning every day.**
+**Learning by building projects and solving problems.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anurag%20Chaurasiya-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Chaurasiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Anuragchaurasiya790-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](http://leetcode.com/u/Anuragchaurasiya790/)
-[![Java](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Web Development](https://img.shields.io/badge/Web%20Development-HTML%20%7C%20CSS%20%7C%20JS-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.mozilla.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/anuragchaurasiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anuragchaurasiya790/)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## About
+
+I am building my programming foundation through Java and C++, practising data structures and algorithms, and creating small web and console applications.
+
+## Featured projects
+
+| Project | Description | Technology |
+|---|---|---|
+| [Huffman Text Compressor](https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR) | Lossless text and file compression using Huffman coding | Java |
+| [CineBook](https://github.com/anuragchaurasiya/repo07) | Browser-based movie ticket booking demonstration | HTML, CSS, JavaScript |
+| [Movie Theater Booking](https://github.com/anuragchaurasiya/repo06) | Console seat booking and billing application | Java, OOP |
+| [LeetCode Solutions](https://github.com/anuragchaurasiya/https-github.com-anuragchaurasiya-LeetcodeSalution) | Algorithm practice and solution notes | Java |
+| [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Classes, inheritance, polymorphism and console examples | Java |
+| [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Beginner programming exercises | C++ |
+
+## Technology
 
 <p align="center">
-  <a href="https://github.com/anuragchaurasiya"><img src="https://img.shields.io/badge/GitHub-anuragchaurasiya-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/anurag-chaurasiya-16388832b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="http://leetcode.com/u/Anuragchaurasiya790/"><img src="https://img.shields.io/badge/LeetCode-Anuragchaurasiya790-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="mailto:anuragchaurasiyachaurasiya1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Java, C++, HTML, CSS, JavaScript, MySQL, Git, GitHub, VS Code and Eclipse" />
 </p>
 
-- 🐙 **GitHub:** [anuragchaurasiya](https://github.com/anuragchaurasiya)
-- 💼 **LinkedIn:** [Anurag Chaurasiya](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
-- 🧩 **LeetCode:** [Anuragchaurasiya790](http://leetcode.com/u/Anuragchaurasiya790/)
-- 📧 **Email:** [anuragchaurasiyachaurasiya1@gmail.com](mailto:anuragchaurasiyachaurasiya1@gmail.com)
+## Current learning focus
+
+- Core Java and object-oriented programming
+- Data structures and algorithms
+- C++ fundamentals and STL
+- HTML, CSS and JavaScript
+- SQL and database fundamentals
+
+## Explore
+
+- [All repositories](https://github.com/anuragchaurasiya?tab=repositories)
+- [LeetCode profile](https://leetcode.com/u/Anuragchaurasiya790/)
+- [LinkedIn profile](https://www.linkedin.com/in/anurag-chaurasiya-16388832b/)
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🎬 **CineBook** | Movie Ticket Booking Platform | HTML • CSS • JavaScript | [View Project](https://github.com/anuragchaurasiya/repo07) |
-| 🛒 **E-Commerce Cart System** | Product, cart and billing system | Java • OOP | [View Project](https://github.com/anuragchaurasiya/repo06) |
-| 🏦 **Bank Management System** | Banking operations and account management | Java • OOP | [View GitHub](https://github.com/anuragchaurasiya) |
-| 🧩 **DSA & LeetCode Practice** | Data structures and algorithm solutions | Java | [View LeetCode](http://leetcode.com/u/Anuragchaurasiya790/) |
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Tech Stack" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/anuragchaurasiya">
-    <strong>View my GitHub contribution graph and activity →</strong>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuragchaurasiya?tab=repositories">📁 Repositories</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/anuragchaurasiya?tab=stars">⭐ Stars</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/anuragchaurasiya?tab=followers">👥 Followers</a>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- ☕ Strengthening **Core Java & OOP**
-- 🧩 Improving **DSA & problem-solving** with LeetCode
-- 🌐 Building practical **Web Development projects**
-- 🗄️ Learning **SQL & database concepts**
-- 🚀 Preparing projects and GitHub profile for **professional/HR evaluation**
-
----
-
-## 🌟 Thanks for visiting my profile!
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
-
-**⭐ Feel free to explore my repositories and projects!**
+**Keep learning · Keep building · Keep improving**
 
 </div>
