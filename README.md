@@ -14,6 +14,8 @@
 
 ---
 
+<p align="center"><img src="profile-banner.svg" alt="Anurag Chaurasiya developer profile banner" width="100%" /></p>
+
 ## About
 
 I am building my programming foundation through Java and C++, practising data structures and algorithms, and creating small web and console applications.
