@@ -31,6 +31,18 @@ I am building my programming foundation through Java and C++, practising data st
 | [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Classes, inheritance, polymorphism and console examples | Java |
 | [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Beginner programming exercises | C++ |
 
+## Concepts demonstrated across projects
+
+| Project | Main concepts |
+|---|---|
+| [Huffman Text Compressor](https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR) | Greedy algorithms, binary trees, priority queues, hash maps and bit manipulation |
+| [CineBook](https://github.com/anuragchaurasiya/repo07) | DOM manipulation, JavaScript state, arrays/objects, validation and LocalStorage |
+| [Movie Theater Booking](https://github.com/anuragchaurasiya/repo06) | Encapsulation, object relationships, ArrayList and serialization |
+| [LeetCode Solutions](https://github.com/anuragchaurasiya/https-github.com-anuragchaurasiya-LeetcodeSalution) | Linked lists, two pointers, tree traversal, stacks and merge sort |
+| [Java OOP Practice](https://github.com/anuragchaurasiya/repo03) | Inheritance, abstraction, method overriding and runtime polymorphism |
+| [C++ Foundations](https://github.com/anuragchaurasiya/repo02) | Arrays, loops, functions, conditions and type conversion |
+| [Interactive Web Starter](https://github.com/anuragchaurasiya/repo01) | HTML semantics, CSS responsive layout, DOM events and accessibility |
+
 ## Technology
 
 <p align="center">
