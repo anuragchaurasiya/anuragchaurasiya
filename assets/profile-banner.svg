@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="535" viewBox="0 0 1600 535" role="img" aria-labelledby="title desc">
+<title id="title">Anurag Chaurasiya — Developer and Programmer</title>
+<desc id="desc">A navy and electric blue developer banner with Anurag Chaurasiya, Java Developer, DSA and Full-Stack Development.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061329"/><stop offset="1" stop-color="#020817"/></linearGradient>
+ <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#00b9ff"/><stop offset="1" stop-color="#1685ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="535" rx="18" fill="url(#bg)"/>
+<path d="M0 0h190L0 190zM1600 0h-150l150 150zM0 535h170L0 365zM1600 535h-170l170-170z" fill="#0755c9" opacity=".6"/>
+<path d="M0 65 65 0h55L0 120zM1600 65 1535 0h-55l120 120zM0 470l65 65h55L0 415zM1600 470l-65 65h-55l120-120z" fill="#08b8f5" opacity=".85"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="360" y="104" fill="#eaf5ff" font-size="34" font-weight="700" letter-spacing="4">DEVELOPER</text>
+ <text x="1240" y="104" fill="#eaf5ff" font-size="34" font-weight="700" letter-spacing="4">PROGRAMMER</text>
+ <text x="800" y="116" fill="#ffd52a" font-size="82" font-weight="bold">ϟ</text>
+ <text x="800" y="278" fill="#f8fbff" font-size="112" font-weight="900" letter-spacing="2">ANURAG</text>
+ <text x="800" y="382" fill="url(#blue)" font-size="108" font-weight="900" letter-spacing="1">CHAURASIYA</text>
+ <path d="M190 410H1410" stroke="url(#blue)" stroke-width="4" filter="url(#glow)"/>
+ <text x="800" y="480" fill="#f4f8ff" font-size=" thirty" font-weight="700" letter-spacing="4">JAVA DEVELOPER  •  <tspan fill="#14c8ff">DSA</tspan>  •  FULL-STACK DEVELOPMENT</text>
+</g>
+<g fill="none" stroke="#11bdf2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M270 145l-38 32 38 32M330 145l38 32-38 32M313 137l-25 80"/>
+ <rect x="1194" y="148" width="92" height="64" rx="12"/><circle cx="1240" cy="180" r="20"/><path d="M1210 148l10-14h38l10 14"/>
+</g>
+</svg>
