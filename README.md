@@ -13,7 +13,7 @@ I build practical projects to strengthen my problem-solving, programming fundame
 </div>
 
 <p align="center">
-  <img src="profile-banner.svg" alt="Anurag Chaurasiya — Java, C++, DSA and Web Development" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Anurag Chaurasiya — Java Developer, DSA and Full-Stack Development" width="100%" />
 </p>
 
 ---
