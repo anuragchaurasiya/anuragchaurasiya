@@ -16,7 +16,7 @@
  <text x="800" y="278" fill="#f8fbff" font-size="112" font-weight="900" letter-spacing="2">ANURAG</text>
  <text x="800" y="382" fill="url(#blue)" font-size="108" font-weight="900" letter-spacing="1">CHAURASIYA</text>
  <path d="M190 410H1410" stroke="url(#blue)" stroke-width="4" filter="url(#glow)"/>
- <text x="800" y="480" fill="#f4f8ff" font-size=" thirty" font-weight="700" letter-spacing="4">JAVA DEVELOPER  •  <tspan fill="#14c8ff">DSA</tspan>  •  FULL-STACK DEVELOPMENT</text>
+ <text x="800" y="480" fill="#f4f8ff" font-size="30" font-weight="700" letter-spacing="4">JAVA DEVELOPER  •  <tspan fill="#14c8ff">DSA</tspan>  •  FULL-STACK DEVELOPMENT</text>
 </g>
 <g fill="none" stroke="#11bdf2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
  <path d="M270 145l-38 32 38 32M330 145l38 32-38 32M313 137l-25 80"/>
