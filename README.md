@@ -30,7 +30,14 @@ I build practical projects to strengthen my problem-solving, programming fundame
 <table>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/anuragchaurasiya/project-shield">PROJECT SHIELD</a></h3>
+      <p>Privacy-conscious mobile security and recovery-support project. Includes project proposal, system architecture, workflow diagrams, privacy guidelines, testing plan, and development guide.</p>
+      <p><strong>Android (planned) · Backend (planned) · Security · System Design · Documentation</strong></p>
+      <p><a href="https://github.com/anuragchaurasiya/project-shield/blob/main/docs/FLOWCHART.md">Flowcharts</a> · <a href="https://github.com/anuragchaurasiya/project-shield/blob/main/docs/USER_GUIDE.md">How it works</a></p>
+    </td>
+    <td width="50%">
       <h3><a href="https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR">Huffman Text Compressor</a></h3>
+
       <p>Lossless text/file compression using Huffman coding.</p>
       <p><strong>Java · Greedy Algorithms · Binary Trees · Priority Queue · Bit Manipulation</strong></p>
       <p><a href="https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR/actions">Build & test workflow</a> · <a href="https://github.com/anuragchaurasiya/HUFFMAN-TEXT-COMPRESSOR/blob/main/docs/ALGORITHM.md">Algorithm notes</a></p>
@@ -72,6 +79,14 @@ I build practical projects to strengthen my problem-solving, programming fundame
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,mysql,git,github,vscode,eclipse" alt="Java, C++, HTML, CSS, JavaScript, MySQL, Git, GitHub, VS Code and Eclipse" />
 </p>
+
+## Current focus
+
+- Improving Java problem-solving with data structures and algorithms.
+- Developing and documenting PROJECT SHIELD step by step.
+- Building practical projects and learning to test and explain the code.
+
+> Project status is described honestly in each repository. Planned features are not presented as completed implementations.
 
 ## What I'm learning
 
